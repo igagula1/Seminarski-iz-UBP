@@ -1,1 +1,1 @@
-# Seminarski-iz-UBP
+# Seminarski-iz-UBP - beta
